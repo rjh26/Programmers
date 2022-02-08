@@ -1,0 +1,3 @@
+module Backjoon {
+	exports solution;
+}
